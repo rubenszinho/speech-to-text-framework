@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+click
+python-multipart
+torch
+sqlalchemy
+git+https://github.com/openai/whisper.git
