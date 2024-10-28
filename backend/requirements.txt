@@ -1,0 +1,7 @@
+flask
+flask-cors
+sqlalchemy
+python-multipart
+torch
+psycopg2
+openai
