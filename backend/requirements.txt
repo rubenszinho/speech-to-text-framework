@@ -1,7 +1,7 @@
-fastapi
-uvicorn
-click
+flask
+flask-cors
+sqlalchemy
 python-multipart
 torch
-sqlalchemy
-git+https://github.com/openai/whisper.git
+psycopg2
+openai
